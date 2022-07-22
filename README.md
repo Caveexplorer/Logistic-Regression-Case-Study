@@ -1,0 +1,3 @@
+This case study delves into the math behind logistic regression in a Python environment.
+
+Logistic regression is a method of classificaiton. Classification tries to predict, which of a small set of classes, an observation belongs to. Mathematically, the aim is to find a label based on knowing a feature vector. For instance, consider predicting sex from seeing a person's face, something we do fairly well as humans. To have a machine do this well, we would typically feed the machine a bunch of images of people which have been labelled "male" or "female" (the training set), and have it learn the sex of the person in the image from the labels and the features used to determine sex. Then, given a new photo, the trained algorithm returns us the sex of the person in the photo.
